@@ -126,11 +126,11 @@ if(isLogin()){
                             <h2 class="headingblock header ">Useful Resources</h2>
                             <table class="categorylist">
                                 <tr>
-                                    <td class="category name"><a href="file/index.php" download>index.php (Partial Source Code)</a></td>
+                                    <td class="category name"><a href="file/index.txt" download>index.php (Partial Source Code)</a></td>
                                     <td class="category number">available</td>
                                 </tr>
                                 <tr>
-                                    <td class="category name"><a href="file/flag.php" download>flag.php (Partial Source Code)</a></td>
+                                    <td class="category name"><a href="file/flag.txt" download>flag.php (Partial Source Code)</a></td>
                                     <td class="category number">available</td>
                                 </tr>
                                 <tr>
